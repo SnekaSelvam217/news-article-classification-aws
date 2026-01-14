@@ -1,0 +1,9 @@
+streamlit
+numpy
+pandas
+scikit-learn
+tensorflow
+torch
+transformers
+psycopg2-binary
+sqlalchemy
